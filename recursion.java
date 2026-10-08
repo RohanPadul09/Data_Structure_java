@@ -22,7 +22,7 @@ public class recursion {
         System.out.println(factorial);
 
         
-        
+        sc.close();
 
 
     }
